@@ -15,17 +15,16 @@
     "commento",
     "comments"
   ],
-  "author": "Vitaliy Bobrov <bobrov1989@gmail.com> (https://bobrov.dev)",
+  "author": "Vitalii Bobrov <bobrov1989@gmail.com> (https://bobrov.dev)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vitaliy-bobrov/metalsmith-commento/issues"
   },
   "homepage": "https://github.com/vitaliy-bobrov/metalsmith-commento#readme",
   "devDependencies": {
-    "debug": "^2.6.3"
+    "debug": "^4.1.1"
   },
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "transliteration": "^1.5.3"
+    "cheerio": "^0.22.0"
   }
 }

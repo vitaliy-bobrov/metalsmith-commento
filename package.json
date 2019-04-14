@@ -1,0 +1,31 @@
+{
+  "name": "metalsmith-commento",
+  "version": "1.0.0",
+  "description": "Commento comments plugin for Metalsmith.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliy-bobrov/metalsmith-commento.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "commento",
+    "comments"
+  ],
+  "author": "Vitaliy Bobrov <bobrov1989@gmail.com> (https://bobrov.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitaliy-bobrov/metalsmith-commento/issues"
+  },
+  "homepage": "https://github.com/vitaliy-bobrov/metalsmith-commento#readme",
+  "devDependencies": {
+    "debug": "^2.6.3"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "transliteration": "^1.5.3"
+  }
+}
